@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@hotjar/browser": "^1.0.9",
     "@next/font": "13.1.4",
     "i": "^0.3.7",
     "isotope-layout": "^3.0.6",

@@ -3,40 +3,14 @@ import { Fragment, useEffect, useState } from "react";
 import { activeSection, stickyNav } from "../utils";
 
 const Menu = () => (
-  <ul className="menu">
-    <li className="menu-item current-menu-item menu-item-has-children">
+ <ul className="menu">
+  
+    <li className="menu-item">
       <a href="#section-started">
         <span className="animated-button">
-          <span>Home</span>
+          <span>Resumo</span>
         </span>
       </a>
-      <ul className="sub-menu">
-        <li className="menu-item current-menu-item">
-          <Link legacyBehavior href="//">
-            <a>Versão 1</a>
-          </Link>
-        </li>
-        <li className="menu-item">
-          <Link legacyBehavior href="/index-2">
-            <a>Versão 2</a>
-          </Link>
-        </li>
-        <li className="menu-item">
-          <Link legacyBehavior href="/index-3">
-            <a>Versão 3</a>
-          </Link>
-        </li>
-        <li className="menu-item">
-          <Link legacyBehavior href="/index-slider">
-            <a>Versão 4</a>
-          </Link>
-        </li>
-       {/* <li className="menu-item">
-          <Link legacyBehavior href="/index-video">
-            <a href="index-video">Home Video</a>
-          </Link>
-        </li> */}
-      </ul>
     </li>
     <li className="menu-item">
       <a href="#section-eu">
