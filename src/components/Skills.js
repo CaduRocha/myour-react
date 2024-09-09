@@ -7,10 +7,10 @@ export const DesignSkills = () => {
       <div className="content">
         {/* title */}
         <div className="titles">
-          <div className="title"> Skills</div>
+          <div className="title"> Skills </div>
           <div className="subtitle">Projetos, Produtos, Infraestrutura, Análise de Dados & Marketing
           </div>
-        </div>
+        </div> 
         {/* skills items */}
         <div className="skills percent">
           <ul>
@@ -62,7 +62,7 @@ export const DesignSkills = () => {
               </div>
             </li>
             
-           
+            
             <li>
               <div className="name">HubSpot</div>
               <div className="single-post-text">
@@ -117,30 +117,19 @@ export const DesignSkills = () => {
               <div className="single-post-text">
                 <p>
                 </p>
-              </div>
+              </div> 
               <div className="progress">
                 <div className="percentage" style={{ width: "85%" }}>
                   <span className="percent">85%</span>
                 </div>
               </div>
             </li>
-              <li>
-              <div className="name">Googe Analytics</div>
-              <div className="single-post-text">
-                <p>
-                </p>
-              </div>
-              <div className="progress">
-                <div className="percentage" style={{ width: "85%" }}>
-                  <span className="percent">85%</span>
-                </div>
-              </div>
-            </li>
+           
 
    <li>
               <div className="name">CloudFlare</div>
               <div className="single-post-text">
-                <p>
+                <p> 
                 </p>
               </div>
               <div className="progress">

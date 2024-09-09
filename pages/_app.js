@@ -3,19 +3,13 @@ import Preloader from "@/src/layouts/Preloader";
 import "@/styles/globals.css";
 import Script from 'next/script';
 import { Fragment, useEffect, useState } from "react";
-import Hotjar from '@hotjar/browser';
-
-const siteId = 5111272;
-const hotjarVersion = 6;
-
-Hotjar.init(siteId, hotjarVersion);
 
 const App = ({ Component, pageProps }) => {
   const [loader, setLoader] = useState(true);
   useEffect(() => {
     setTimeout(() => {
       setLoader(false);
-    }, 2000);
+    }, 2000); 
   }, []);
 
   return (
