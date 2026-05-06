@@ -15,12 +15,11 @@ const Service = () => {
                 <i className="fas fa-brain" />
               </div>
               <div className="name">
-                Produtos Digitais
+                Produtos Digitais & Inovação
               </div>
               <div className="single-post-text">
                 <p>
-                Transformo ideias em produtos digitais robustos e escaláveis (Sempre). Desde a concepção até o lançamento, cuido de cada etapa do desenvolvimento, garantindo que cada detalhe esteja alinhado com as necessidades dos usuários e a, stakeholders e tendências do mercado.
-
+Transformo ideias em produtos reais, já liderei do conceito ao go-live soluções como HubSmart (SaaS interno) e ferramentas de automação/IA que escalaram resultados. Minha pegada é unir tecnologia, design e negócios para criar produtos que entreguem valor mensurável.
 
                 </p>
               </div>
@@ -37,8 +36,7 @@ const Service = () => {
               </div>
               <div className="single-post-text">
                 <p>
-Sólida experiência em metodologias ágeis (Scrum, Kanban e um pouco de LEAN) e tradicionais (PMI), gerencio projetos complexos de TI e web, coordenando equipes multidisciplinares para assegurar a entrega dentro do prazo e do orçamento, sempre tentnado superar as expectativas.</p>
-              </div>
+Mais de 45 projetos entregues em TI e Marketing, SaaS e automação. Domino metodologias Ágeis (Scrum, Kanban) e tradicionais (PMBOK/PMI), sempre garantindo entrega dentro de prazo, escopo e orçamento. Estruturei PMO corporativo, dashboards e KPIs que aumentaram a eficiência e transparência na gestão de projetos.      </p>        </div>
             </div>
           </div>
           <div className="service-col">
@@ -52,7 +50,7 @@ Sólida experiência em metodologias ágeis (Scrum, Kanban e um pouco de LEAN) e
               </div>
               <div className="single-post-text">
                 <p>
-                Desenvolvo e implemento estratégias e campanhas de marketing digital focadas em performance, como aumento de usuários, vendas, engajamento e redução do custo de aquisição de clientes. Utilizo ferramentas avançadas como HubSpot, RD Station e Google Analytics para campanhas de tráfego (Meta e Google Ads), branding e campanhas institucionais. Meu objetivo é conectar produtos ao público certo, impulsionando o crescimento e a visibilidade da marca, sempre guiado pelos principais KPIs desse universo.
+            Como Head, liderei um time de 28+ pessoas, coordenando campanhas que trouxeram +10 mil leads qualificados e ajudaram a movimentar mais de R$ 50 milhões em ativos sob custódia via performance digital. Especialista em automação de marketing, funil de vendas e inside sales.
 
 </p>
               </div>
@@ -69,7 +67,7 @@ Sólida experiência em metodologias ágeis (Scrum, Kanban e um pouco de LEAN) e
               </div>
               <div className="single-post-text">
                 <p>
-               Definição Clara do perfil ideal (ICP), Implementação de processos de qualificação e nutrição de leads, automatizar processos para ganhar escala, utilizando ferramentas e tecnologia para suportar os processos. Criação de Valor com propostas personalizadas e consultoria proativa. Construção de Relacionamentos (O mais importante!).    </p>
+        Estruturei processos escaláveis de qualificação e nutrição de leads. Implantei ferramentas como RD, HubSpot, Make e n8n para reduzir custos, ganhar escala e aumentar previsibilidade de vendas.   </p>
               </div>
             </div>
           </div>

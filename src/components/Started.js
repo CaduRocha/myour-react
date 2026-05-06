@@ -20,12 +20,12 @@ const Started = () => {
             </div>
             {/* text */}
             <div className="h-text">
-            Profissional com mais de 15 anos de experiência em Tecnologia, Gestão de Projetos (Web e TI), Marketing Digital e Infraestrutura. Com uma trajetória em setores como publicidade, moda, governo e mercado financeiro, possuo sólidos conhecimentos em metodologias de gerenciamento de projetos PMI e Ágil. Minha experiência inclui coordenação de equipes, entrega contínua de valor, e inovação. Atuei como Product Owner, Scrum Master, e Head of Marketing Communication, com foco em automação e desenvolvimento de estratégias de marketing.
-            </div>
+              Sou um profissional generalista em tecnologia, projetos e marketing digital, com mais de 15 anos de experiência conectando estratégia, produto e execução. Atuo na criação de sites, sistemas, produtos digitais e operações de marketing, unindo visão de negócio com conhecimento técnico em desenvolvimento web, gestão de projetos, tráfego pago e experiência do usuário. Ao longo da minha trajetória, liderei equipes multidisciplinares, coordenei projetos de tecnologia e participei da construção de soluções digitais para empresas de diferentes segmentos, sempre com foco em performance, organização e crescimento sustentável. Hoje, meu trabalho é transformar ideias em soluções digitais funcionais, escaláveis e bem estruturadas. 🚀
+</div>
             {/* button */}
-            <a href="#" className="btn">
+            <a href="https://api.whatsapp.com/send?phone=5521972832408&text=Ol%C3%A1,%20entrei%20no%20seu%20site%20e%20quero%20saber%20mais"  className="btn">
               <span className="animated-button">
-                <span>Bora Conversar?</span>
+                <span>Bora Conversar </span>
               </span>
               <i className="icon fas fa-chevron-right" />
             </a>

@@ -12,34 +12,7 @@ const Menu = () => (
         </span>
       </a>
     </li>
-    <li className="menu-item">
-      <a href="#section-eu">
-        <span className="animated-button">
-          <span>Sobre Mim</span>
-        </span>
-      </a>
-    </li>
-    <li className="menu-item">
-      <a href="#section-experience">
-        <span className="animated-button">
-          <span>Experiência</span>
-        </span>
-      </a>
-    </li>
-    <li className="menu-item">
-      <a href="#section-education">
-        <span className="animated-button">
-        <span>Formação Acadêmica</span>
-        </span>
-      </a>
-    </li>
-    <li className="menu-item">
-      <a href="#section-skills">
-        <span className="animated-button">
-        <span>Skills</span>
-        </span>
-      </a>
-    </li>
+  
    
     <li className="menu-item">
     <a target="_blank" href="https://api.whatsapp.com/send?phone=5521972832408&text=Ol%C3%A1,%20entrei%20no%20seu%20site%20e%20quero%20saber%20mais.">

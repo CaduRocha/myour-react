@@ -93,12 +93,8 @@ const Index2 = () => {
 
       {/* sections */}
       <Started />
-      <About />
-      <Service />
-      <Experience />
-      <Education />
-      <DesignSkills />
-      <CodingSkills />
+     
+   
       
     </Layout>
   );
